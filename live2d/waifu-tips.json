@@ -1,0 +1,90 @@
+{
+  "time": {
+    "hour-0": [
+      "Good morning! Ready to start studying? 🌅",
+      "Early bird gets the worm! Let's study! 🐛"
+    ],
+    "hour-1": [
+      "Morning study session! You've got this! ☀️",
+      "Start your day with focus! 📚"
+    ],
+    "hour-2": [
+      "Keep up the momentum! 💪",
+      "You're doing great! Keep studying! ✨"
+    ],
+    "hour-3": [
+      "Stay focused! You're making progress! 📖",
+      "Every minute counts! ⏰"
+    ],
+    "hour-4": [
+      "Keep going! Your StudyGotchi is proud! 🎉",
+      "You're building great habits! 🌟"
+    ],
+    "hour-5": [
+      "Almost there! Keep pushing! 🚀",
+      "Your dedication is amazing! 💯"
+    ],
+    "hour-6": [
+      "Great work today! Take a break if needed! 😊",
+      "You've accomplished a lot! 🎊"
+    ],
+    "hour-7": [
+      "Evening study session! Nice! 🌙",
+      "Keep up the good work! 📝"
+    ],
+    "hour-8": [
+      "You're doing amazing! Keep it up! ⭐",
+      "Every study session makes you stronger! 💪"
+    ],
+    "hour-9": [
+      "Late night studying? Don't forget to rest! 😴",
+      "Balance is key! Take care of yourself! ❤️"
+    ]
+  },
+  "selector": {
+    "body": [
+      "Welcome to StudyGotchi! Let's study together! 🎓",
+      "Ready to focus? I'm here to help! 📚"
+    ]
+  },
+  "referrer": {
+    "canvas": [
+      "Studying on Canvas? Great choice! 🎨",
+      "Keep up with your courses! 📖"
+    ],
+    "github": [
+      "Coding and studying? Awesome! 💻",
+      "Learning to code is a great skill! 🚀"
+    ]
+  },
+  "message": {
+    "default": [
+      "Let's study together! 📚",
+      "You can do it! 💪",
+      "Focus and achieve your goals! 🎯",
+      "Every study session counts! ⏰",
+      "I believe in you! ✨"
+    ],
+    "console": [
+      "Found something interesting in the console? 🔍",
+      "Keep exploring and learning! 💡"
+    ],
+    "hour": [
+      "Time flies when you're studying! ⏰",
+      "You've been studying for a while! Great job! 🎉"
+    ],
+    "copy": [
+      "Copying notes? Good study habit! 📋",
+      "Keep organizing your knowledge! 📝"
+    ],
+    "visibilitychange": [
+      "Welcome back! Ready to continue studying? 👋",
+      "Missed me? Let's get back to studying! 📚"
+    ],
+    "click": [
+      "Clicking around? Let's focus on studying! 🎯",
+      "Stay on track! You've got this! 💪"
+    ]
+  }
+}
+

@@ -1,0 +1,22 @@
+{
+  "name": "studygotchi",
+  "version": "1.0.0",
+  "description": "A Chrome Extension that helps you stay focused with a virtual study buddy",
+  "type": "module",
+  "scripts": {
+    "build": "npm run build:svelte && npm run build:live2d",
+    "build:svelte": "vite build",
+    "build:live2d": "echo 'Live2D build - see live2d-widget repository for build instructions'",
+    "dev": "vite",
+    "lint": "eslint src"
+  },
+  "dependencies": {
+    "svelte": "^4.0.0"
+  },
+  "devDependencies": {
+    "@sveltejs/vite-plugin-svelte": "^3.0.0",
+    "vite": "^5.0.0",
+    "eslint": "^8.0.0"
+  }
+}
+
